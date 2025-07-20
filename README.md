@@ -1,4 +1,4 @@
-# chem_eng1
+# antoine_calculator
 A Python toolkit aiming to help with calculating key variables required for solving vapor-liquid equilibira problems.
 
 Overview:
